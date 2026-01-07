@@ -1,10 +1,10 @@
 # BMAD Automate
 
-Automated BMAD (Business Method for Agile Development) Workflow Orchestrator for Claude Code.
+Automated [BMAD](https://github.com/bmad-code-org/BMAD-METHOD) Workflow Orchestrator for Claude Code.
 
 Processes stories through a complete development cycle:
 
-```
+```text
 create-story -> dev-story -> code-review -> git-commit
 ```
 
